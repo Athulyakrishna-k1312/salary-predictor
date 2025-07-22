@@ -38,3 +38,13 @@ This project uses machine learning models to predict whether an employee earns m
 ![Best Model Highlight](https://github.com/Athulyakrishna-k1312/salary-predictor/blob/0308b329cad37bdbcdee031715196469b4f4c8b1/images/pic5.png)
 
 ---
+## 🖥️ Web App Interface
+
+This project includes a **Streamlit** app to classify employee salaries:
+
+- Single Prediction via form input
+- Batch Prediction via file upload
+
+### 🔍 App Screenshot  
+![App UI](https://github.com/Athulyakrishna-k1312/salary-predictor/blob/875453b5966f0ae78a28666f3708b553d09e5f18/images/Screenshot%20from%202025-07-21%2022-11-29.png)
+
