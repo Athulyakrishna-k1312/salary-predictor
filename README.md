@@ -25,3 +25,16 @@ This project uses machine learning models to predict whether an employee earns m
 ![Cleaned Boxplot](https://github.com/Athulyakrishna-k1312/salary-predictor/blob/b370299f11d01539eeeca34c228338eceaa3de7e/images/pic2.png)
 
 ---
+
+## 🤖 Model Performance
+
+### 📈 Accuracy Comparison  
+![Model Comparison Bar Chart](images/model_comparison.jpg)
+
+### 📊 Classification Reports  
+![Classification Report](images/classification_report.jpg)
+
+### ✅ Best Performing Model  
+![Best Model Highlight](images/gradient_boosting_result.jpg)
+
+---
