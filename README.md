@@ -12,7 +12,7 @@ This project uses machine learning models to predict whether an employee earns m
 ## 🧪 Exploratory Data Analysis
 
 ### 📌 With Outliers  
-![Outlier Boxplot](images/outliers_boxplot.jpg)
+![Outlier Boxplot](https://github.com/Athulyakrishna-k1312/salary-predictor/blob/b370299f11d01539eeeca34c228338eceaa3de7e/images/pic2.png)
 
 ### 📌 Without Outliers  
 ![Cleaned Boxplot](images/no_outliers_boxplot.jpg)
