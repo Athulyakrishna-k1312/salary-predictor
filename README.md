@@ -45,6 +45,15 @@ This project includes a **Streamlit** app to classify employee salaries:
 - Single Prediction via form input
 - Batch Prediction via file upload
 
+- 
+## 🌐 Live App
+
+🔗 [Click here to try it online](https://salary-predictor-cvfpndnysxwgbibtgtmpmc.streamlit.app/)
+
+---
+
+
+
 ### 🔍 App Screenshot  
 ![App UI](https://github.com/Athulyakrishna-k1312/salary-predictor/blob/875453b5966f0ae78a28666f3708b553d09e5f18/images/Screenshot%20from%202025-07-21%2022-11-29.png)
 
