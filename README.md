@@ -7,3 +7,14 @@ This project uses machine learning models to predict whether an employee earns m
 - **Source:** `adult.csv`
 - **Description:** Contains demographic and employment-related attributes (age, education, occupation, etc.) used for salary prediction.
 - **Target:** Whether income is `<=50K` or `>50K`.
+
+
+## 🧪 Exploratory Data Analysis
+
+### 📌 With Outliers  
+![Outlier Boxplot](images/outliers_boxplot.jpg)
+
+### 📌 Without Outliers  
+![Cleaned Boxplot](images/no_outliers_boxplot.jpg)
+
+---
